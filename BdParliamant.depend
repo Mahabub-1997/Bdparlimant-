@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1481539569 source:c:\users\user\desktop\bdparliamant\main.c
+	"other.h"
+
+1481543315 c:\users\user\desktop\bdparliamant\other.h
+	"Header.h"
+
+1481542625 c:\users\user\desktop\bdparliamant\header.h
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
+1481540382 source:c:\users\user\desktop\bdparliamant\test.c
+
+1481539570 source:f:\bdparliamant\main.c
+	"other.h"
+
+1481605912 f:\bdparliamant\other.h
+	"Header.h"
+
+1481601980 f:\bdparliamant\header.h
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
+1481540384 source:f:\bdparliamant\test.c
+
+1481539570 source:c:\users\user\desktop\bdparliamant1\main.c
+	"other.h"
+
+1481699600 c:\users\user\desktop\bdparliamant1\other.h
+	"Header.h"
+
+1481623768 c:\users\user\desktop\bdparliamant1\header.h
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
+1481540384 source:c:\users\user\desktop\bdparliamant1\test.c
+
+1512323145 source:g:\bdparliamant\bdparliamant1\main.c
+	"other.h"
+
+1481699600 g:\bdparliamant\bdparliamant1\other.h
+	"Header.h"
+
+1481623768 g:\bdparliamant\bdparliamant1\header.h
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
+1481540384 source:g:\bdparliamant\bdparliamant1\test.c
+
